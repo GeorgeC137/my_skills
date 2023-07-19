@@ -1,0 +1,36 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "skill": "Vue.js"
+    },
+    {
+      "id": "2",
+      "skill": "PHP"
+    },
+    {
+      "id": "3",
+      "skill": "Laravel"
+    },
+    {
+      "id": "4",
+      "skill": "Django"
+    },
+    {
+      "id": "5",
+      "skill": "JavaScript"
+    },
+    {
+      "skill": "HTML",
+      "id": "nQJlG2g"
+    },
+    {
+      "skill": "React",
+      "id": "OMKHreG"
+    },
+    {
+      "skill": "Tailwind",
+      "id": "4eYiTYU"
+    }
+  ]
+}
